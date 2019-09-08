@@ -7,4 +7,5 @@ This repository contains various programming solutions in the C programming lang
    S = 1!/1 + 2!/2 + 3!/3 + 4!/4 + … + n!/n 
 
    Using an User-defined function, you have to do it.
+   
 3. Write a program in C to count the number of all duplicate elements in a one-dimensional array.
