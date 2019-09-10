@@ -12,3 +12,4 @@ This repository contains various programming solutions in the C programming lang
 4. Write a C program to check whether a given number is ABUNDANT or not. An abundant number is a special type of number for which the sum of its proper divisors is greater than the number itself. Make use of user-defined functions as and when necessary.
 5. Write a C program to calculate the root of a quadratic equation. Take the values of the constants from the user. At first display the whole equation and then display the root of that equation. Make use of user-defined function as and when necessary. 
 6. Write a C program to check whether a given integer (to be taken from the user) is a PALINDROME or not. Make use of user-defined function as and when necessary.
+7. Write a C program to find out the sum of contiguous sub-array within a 1-D array of numbers which has the largest sum. 
