@@ -13,3 +13,4 @@ This repository contains various programming solutions in the C programming lang
 5. Write a C program to calculate the root of a quadratic equation. Take the values of the constants from the user. At first display the whole equation and then display the root of that equation. Make use of user-defined function as and when necessary. 
 6. Write a C program to check whether a given integer (to be taken from the user) is a PALINDROME or not. Make use of user-defined function as and when necessary.
 7. Write a C program to find out the sum of contiguous sub-array within a 1-D array of numbers which has the largest sum. 
+8. Write a C program to find out power of any number xy without using any built-in functions.
