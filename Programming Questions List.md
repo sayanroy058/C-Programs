@@ -28,4 +28,5 @@ This repository contains various programming solutions in the C programming lang
       600 and above	@2.00
 
       If bill exceeds Rs. 400/- then a surcharge of 15% will be charged and the minimum bill should be of Rs. 100/-.
-  10. Write a program to find unique elements in an array    
+  10. Write a program to find unique elements in an array  
+  11. Write a program to find Number of duplicate elements in an array 
