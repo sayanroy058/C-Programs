@@ -29,4 +29,5 @@ This repository contains various programming solutions in the C programming lang
 
       If bill exceeds Rs. 400/- then a surcharge of 15% will be charged and the minimum bill should be of Rs. 100/-.
   10. Write a program to find unique elements in an array  
-  11. Write a program to find Number of duplicate elements in an array 
+  11. Write a program to find Number of duplicate elements in an array
+  12. Write a program to take two strings from the user and check whether the 2nd string is a substring of the 1st string or not. If yes then dispaly the position number from where the 2nd string beginning in the 1st string
