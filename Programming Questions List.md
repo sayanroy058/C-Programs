@@ -31,3 +31,8 @@ This repository contains various programming solutions in the C programming lang
   10. Write a program to find unique elements in an array  
   11. Write a program to find Number of duplicate elements in an array
   12. Write a program to take two strings from the user and check whether the 2nd string is a substring of the 1st string or not. If yes then dispaly the position number from where the 2nd string beginning in the 1st string
+  13. Write a program to find the Transpose of a Matrix
+  14. Write a program to find the Upper Triangular Matrix
+  15. Write a program to find the Lower Triangular Matrix
+  16. Write a program to check whether a matrix is Symmetric or not
+  17. Write a program to check whether a matrix is Identity Matrix or not
