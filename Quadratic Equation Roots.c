@@ -4,7 +4,6 @@ void roots(int a, int b, int c);
 int main()
 {
 	int a,b,c,d;
-	float  r1,r2;
 	printf("Enter the value of a,b,c:");
 	scanf("%d%d%d",&a,&b,&c);
 	printf("The Equation is:\n");
