@@ -1,13 +1,25 @@
 #include<stdio.h>
 int main()
 {
-	int i,n,a[100],first,last,mid,search;
+	int i,j,n,a[100],first,last,mid,search;
 	printf("Enter the number of elements: ");
     scanf("%d",&n);
     printf("Enter the numbers:\n");
     for(i=0;i<n;i++)
     {
     	scanf("%d",&a[i]);
+	}
+	for(i=1;i<n;i++)
+	{
+		for(j=0;j<n;j++)
+		{
+			if(a[j]!= a[n-1] && a[j]>a[j+1])
+			{
+				a[j]=a[j]+a[j+1];
+				a[j+1]=a[j]-a[j+1];
+				a[j]=a[j]-a[j+1];
+			}
+		}
 	}
 	printf("\nEnter the number to find: ");
     scanf("%d", &search);
